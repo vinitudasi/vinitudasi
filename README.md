@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align = "center">
+<!-- <h1 align = "center">
          <img src="gifs/wave.gif" 
          alt="Waving hand animated gif"
          height="40"
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
          height="40"
          width="40"/>
 </h1>
-
+ -->
 
 <br><br>
 
@@ -50,9 +50,9 @@ try:
        
 except Exception as LifeProblems:
     if LifeProblems.whatHappened == Life.tooStressed:
-        relax(sketchPortraits)
+        relax(workout)
     else:
-        watch(anime)
+        watch(starwars)
 ```
          
 ![](https://activity-graph.herokuapp.com/graph?username=Hiten1708&theme=rogue&hide_border=true&area=true)
