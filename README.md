@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![My Banner](images/abc2.png)
 
 <h1 align = "center">
          <img src="gifs/wave.gif" 
@@ -33,8 +32,8 @@ Here are some ideas to get you started:
 
 ```json
 {
-  "name": "Hitenkumar Patel",
-  "program": "BSc in Physics",
+  "name": "Vinit Udasi",
+  "program": "Comp. Sci undergrad",
   "school": "Brock University",
   "year": "3",
 }
@@ -86,12 +85,11 @@ except Exception as LifeProblems:
          
 <div align = "center">
   
-<!--   [<img src="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://www.github.com/irsayvid)  -->
-  [<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/hiten.patel.560272)
-  [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hitenkumar-patel-79287b1a8/)
-  [<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/HarshP1409)
-  [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC1M5FwzvNJbHZ4Lgk8zchYg)
-  [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/thehiten.hp/) 
+
+  [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinitudasi)
+  [<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/vinitudasi)
+
+ 
 </div>
          
  
