@@ -36,7 +36,6 @@
 ### **Education 🎓**
 - **Bachelor of Science, Computer Science** (Minor in Statistics)  
   **Brock University** | May 2024 | GPA: 3.8  
-  - **Awards**: Dean’s Honor List (Years 1-4), Winner of Brock Coding Contest, ICPC Finalist 2023  
   - **Relevant Coursework**:  
     Data Structures, Cloud Computing, Machine Learning, System Design, Operating Systems  
 
