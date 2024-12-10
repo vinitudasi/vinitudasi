@@ -55,8 +55,10 @@
 
 ### **Certifications 📜**
 - **AWS Certified Solutions Architect – Associate**  
-- **Introduction to Machine Learning (Coursera)**  
-- **Advanced Kubernetes and CI/CD Pipelines**  
+- **Advanced Kubernetes and CI/CD Pipelines**
+- **LambdaTest Software Testing Certificate**
+- **Career Essentials in GenAI by Microsoft**
+- **Career Essentials in Sofwtare Engineering By Microsoft** 
 
 ---
 
