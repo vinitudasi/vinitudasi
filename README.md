@@ -43,7 +43,7 @@
 ---
 
 ### **Highlighted Projects 🐾**
-- **[Parallel PageRank Algorithm](https://github.com/vinitudasi/parallel-pagerank)**  
+- **[Parallel PageRank Algorithm](https://github.com/vinitudasi/pagerank-openMP)**  
   *Implemented in C++ using OpenMP for shared memory architectures; achieved a 43x throughput improvement.*  
 
 - **[Sentiment Analysis of Customer Reviews](https://github.com/vinitudasi/sentiment-analysis)**  
