@@ -1,100 +1,77 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=vinitudasi&color=36b812)<br>  
+![](https://img.shields.io/github/followers/vinitudasi?style=social)<br>  
+![](https://img.shields.io/github/stars/vinitudasi?style=social)<br>  
 
-<!--
-**vinitudasi/vinitudasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, my name is **Vinit Udasi** 👋 and I’m passionate about **Software Engineering, Machine Learning, and Cloud Technologies**
 
-Here are some ideas to get you started:
+**Field of Interests**: Backend Development, Distributed Systems, Data Science, Kubernetes, and High-Performance Computing  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<!-- <h1 align = "center">
-         <img src="gifs/wave.gif" 
-         alt="Waving hand animated gif"
-         height="40"
-         width="40"/>
-         HELLO !
-         <img src="gifs/wave.gif" 
-         alt="Waving hand animated gif"
-         height="40"
-         width="40"/>
-</h1>
- -->
+### **Skills 🛠️**
+- **Languages**:  
+  C, C++, Python, Java, JavaScript, Rust, Ruby, R  
+- **Databases**:  
+  MySQL, MongoDB  
+- **Frameworks**:  
+  Kubernetes, Node.js, TensorFlow, Spring Boot  
+- **Developer Tools**:  
+  Docker, Git, Jenkins, Google Cloud, AWS, Postman  
+- **Soft Skills**:  
+  Team Player, Leadership, Adaptability, Bias for Action  
 
-<br><br>
+---
 
-```json
-{
-  "name": "Vinit Udasi",
-  "program": "Comp. Sci undergrad",
-  "school": "Brock University",
-  "year": "3",
-}
-```
+### **Work Experience 👔**
+| **Job Position**         | **Company**                | **Field**                     | **Work Period**        |  
+|---------------------------|----------------------------|-------------------------------|------------------------|  
+| **ML Developer Intern**   | **FGF Brands**            | Data Processing, Computer Vision | 2022-04 — 2022-08   |  
+| **Junior Developer Intern** | **Pride Mobility Inc**  | Backend Development, Testing  | 2022-01 — 2022-04      |  
+| **Systems Design Intern** | **Ministry of Transportation, Ontario** | Systems Automation        | 2021-04 — 2021-08      |  
+| **Junior Backend Engineer** | **Mortimer’s Fine Foods** | Real-Time Communication Tools | 2020-10 — 2021-03      |  
 
-```python
+---
 
-try:
-    while True:
-        learnSomethingNew()
-    
-        if Bored():
-            learn(SoftwareDevelopment, MachineLearning)
-       
-except Exception as LifeProblems:
-    if LifeProblems.whatHappened == Life.tooStressed:
-        relax(workout)
-    else:
-        watch(starwars)
-```
-         
-![](https://activity-graph.herokuapp.com/graph?username=Hiten1708&theme=rogue&hide_border=true&area=true)
+### **Education 🎓**
+- **Bachelor of Science, Computer Science** (Minor in Statistics)  
+  **Brock University** | May 2024 | GPA: 3.8  
+  - **Awards**: Dean’s Honor List (Years 1-4), Winner of Brock Coding Contest, ICPC Finalist 2023  
+  - **Relevant Coursework**:  
+    Data Structures, Cloud Computing, Machine Learning, System Design, Operating Systems  
 
+---
 
-<br><br>
+### **Highlighted Projects 🐾**
+- **[Parallel PageRank Algorithm](https://github.com/vinitudasi/parallel-pagerank)**  
+  *Implemented in C++ using OpenMP for shared memory architectures; achieved a 43x throughput improvement.*  
 
-<h2 align = "center"> TECHNOLOGIES & TOOLS </h2>
+- **[Sentiment Analysis of Customer Reviews](https://github.com/vinitudasi/sentiment-analysis)**  
+  *Developed an ML model using NLTK and TensorFlow; deployed the API on AWS Lambda.*  
 
-<div align = "center">
+- **[Real-Time Data Analytics Platform](https://github.com/vinitudasi/real-time-analytics)**  
+  *Built using Spark, Hadoop, and Apache Kafka; visualized insights with Tableau.*  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height = "20" src = "https://icon-library.com/images/django-icon/django-icon-0.jpg"> </code>
-<code> <img height = "20" src="https://www.php.net/images/logos/new-php-logo.svg" > </code>
-<code> <img height="20" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"> </code>
+---
 
-<div align = "center">
+### **Certifications 📜**
+- **AWS Certified Solutions Architect – Associate**  
+- **Introduction to Machine Learning (Coursera)**  
+- **Advanced Kubernetes and CI/CD Pipelines**  
 
-<br><br>
+---
 
- <h2 align = "center"> I'd love to hear from you! </h2>
-         
-<div align = "center">
-  
+### **Achievements 🏆**
+- Winner of the **Brock Coding Contest**  
+- Finalist in **ICPC 2023**  
+- Contributor to open-source projects on **Kubernetes** and **Spring Boot**  
 
-  [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinitudasi)
-  [<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/vinitudasi)
+---
 
- 
-</div>
-         
- 
+### **GitHub Stats ⭐**
+[![Vinit Udasi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinitudasi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Hiten1708/count.svg" />
-</p>
+---
+
+### **Connect With Me 📬**
+- **Email**: [vinitudasi8888@gmail.com](mailto:vinitudasi8888@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/vinitudasi](https://linkedin.com/in/vinitudasi)  
