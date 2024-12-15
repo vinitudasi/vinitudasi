@@ -49,7 +49,10 @@
   *Developed an ML model using NLTK and TensorFlow; deployed the API on AWS Lambda.*  
 
 - **[Real-Time Data Analytics Platform](https://github.com/vinitudasi/Real_Time_Twitter_Trends_Analytics)**  
-  *Built using Spark, Hadoop, and Apache Kafka; visualized insights with Tableau.*  
+  *Built using Spark, Hadoop, and Apache Kafka; visualized insights with Tableau.*
+  
+- **[Course Management Using Java Spring](https://github.com/vinitudasi/course-management-java-spring)**  
+  *Built using Spark, Hadoop, and Apache Kafka; visualized insights with Tableau.*
 
 ---
 
