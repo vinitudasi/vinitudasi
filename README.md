@@ -52,7 +52,7 @@
   *Built using Spark, Hadoop, and Apache Kafka; visualized insights with Tableau.*
   
 - **[Course Management Using Java Spring](https://github.com/vinitudasi/course-management-java-spring)**  
-  *Built using Spark, Hadoop, and Apache Kafka; visualized insights with Tableau.*
+  *Course registration project using Java Web with Spring Framework.*
 
 ---
 
