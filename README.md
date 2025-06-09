@@ -25,7 +25,7 @@
 ### **Work Experience 👔**
 | **Job Position**         | **Company**                | **Field**                     | **Location**            | **Work Period**        |  
 |---------------------------|----------------------------|-------------------------------|-------------------------|------------------------|  
-| **ML Developer Intern**   | **FGF Brands**            | Data Processing, Computer Vision | Toronto, ON           | 2022-04 — 2022-08   |  
+| **Software Developer Intern**   | **FGF Brands**            | Data Processing, Computer Vision | Toronto, ON           | 2022-04 — 2022-08   |  
 | **Junior Developer Intern** | **Pride Mobility Inc**  | Backend Development, Testing  | Beamsville, ON              | 2022-01 — 2022-04      |  
 | **Systems Design Intern** | **Ministry of Transportation, Ontario** | Systems Automation        | Toronto, ON            | 2021-04 — 2021-08      |  
 | **Junior Backend Engineer** | **Mortimer’s Fine Foods** | Real-Time Communication Tools | St. Catharines, ON           | 2020-10 — 2021-03      |  
@@ -57,7 +57,6 @@
 ---
 
 ### **Certifications 📜**
-- **AWS Certified Solutions Architect – Associate**  
 - **Advanced Kubernetes and CI/CD Pipelines**
 - **LambdaTest Software Testing Certificate**
 - **Career Essentials in GenAI by Microsoft**
