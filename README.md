@@ -25,6 +25,7 @@
 ### **Work Experience 👔**
 | **Job Position**         | **Company**                | **Field**                     | **Location**            | **Work Period**        |  
 |---------------------------|----------------------------|-------------------------------|-------------------------|------------------------|  
+| **Software Developer - I**   | **V & A Petroleum Inc.**            | Backend Development, Machine Learning | St. Catharines, ON           | 2024-06 — 2025-03   |  
 | **Software Developer Intern**   | **FGF Brands**            | Data Processing, Computer Vision | Toronto, ON           | 2022-04 — 2022-08   |  
 | **Junior Developer Intern** | **Pride Mobility Inc**  | Backend Development, Testing  | Beamsville, ON              | 2022-01 — 2022-04      |  
 | **Systems Design Intern** | **Ministry of Transportation, Ontario** | Systems Automation        | Toronto, ON            | 2021-04 — 2021-08      |  
